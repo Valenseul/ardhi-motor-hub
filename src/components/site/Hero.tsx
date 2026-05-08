@@ -41,7 +41,7 @@ export function Hero() {
       <div className="container mx-auto px-4 py-24 md:py-32 lg:py-40">
         <div className="max-w-3xl text-primary-foreground">
           <span className="inline-flex items-center rounded-full border border-white/20 bg-white/10 px-3 py-1 text-xs font-medium backdrop-blur">
-            🏆 Showroom Mobil Bekas Terpercaya di Depok
+             Showroom Mobil Bekas Terpercaya di Depok
           </span>
           <h1 className="mt-4 font-display text-4xl font-bold leading-tight md:text-6xl">
             Temukan Mobil Bekas <span className="text-accent">Berkualitas</span> Impianmu
