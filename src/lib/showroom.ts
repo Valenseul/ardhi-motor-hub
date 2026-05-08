@@ -5,7 +5,7 @@ export const SHOWROOM = {
     "Jl. Jasa Warga No.1 Sugutamu, Bakti Jaya, Sukma Jaya, Depok",
   phone: "081283000297",
   phone2: "(021) 94505407",
-  whatsapp: "6281283000297", // wa.me format (62 + nomor tanpa 0 leading)
+  whatsapp: "6281283000297", 
   // Koordinat Sukmajaya, Depok (perkiraan area Jasa Warga)
   mapLat: -6.3812,
   mapLng: 106.834,
